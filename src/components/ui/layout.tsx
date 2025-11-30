@@ -1,6 +1,7 @@
 import { Toaster } from "@/components/ui/sonner"
+import type { LayoutProps } from "next"
 
-export default function RootLayout({ children } : RootLayoutProps) {
+export default function RootLayout({ children }: LayoutProps) {
   return (
     <html lang="en">
       <head />
@@ -11,4 +12,3 @@ export default function RootLayout({ children } : RootLayoutProps) {
     </html>
   )
 }
-
