@@ -1,5 +1,4 @@
 import {
-  SidebarContent,
   SidebarFooter,
   SidebarGroup,
   SidebarHeader,
@@ -25,3 +24,4 @@ export function AppSidebar() {
   )
 
 }
+
