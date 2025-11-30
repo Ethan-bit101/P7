@@ -1,7 +1,7 @@
 import { Toaster } from "@/components/ui/sonner"
 import React from "react"
 
-export default function RootLayout({
+export default function LayoutProps({
   children,
 }: {
   children: React.ReactNode
@@ -16,3 +16,4 @@ export default function RootLayout({
     </html>
   )
 }
+
