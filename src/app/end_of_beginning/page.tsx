@@ -217,7 +217,7 @@ interface JwtPayload {
                 </h1>
                 </Link>
               </div>
-               <Popover>
+<Popover>
                 <PopoverTrigger asChild>
                   <ButtonGroup
                     className="relative cursor-pointer"
@@ -391,16 +391,6 @@ interface JwtPayload {
       <span className = "text-small text-gray-500">3M views</span><br/>
       </figcaption></Link>
     </figure>
-            <figure className = " inline-block">
-      <Link href="/end_of_beginning" rel="noopener noreferrer">
-
-      <Image src="/end_of_beginning.jpg" alt="Homepage" width={150} height={150} className="rounded-md inline-block" />
-      <figcaption className='absolute inline-block relative left-2 top-[18]'>
-        <span>Djo- End of Beginning</span><br/>
-      <span className = "text-small text-gray-500">Ethan-bytes101001</span><br/>
-      <span className = "text-small text-gray-500">3M views</span><br/>
-      </figcaption></Link>
-    </figure>
     <figure className = "inline-block">
       <Link href="/your_song" rel="noopener noreferrer">
 
@@ -429,11 +419,11 @@ interface JwtPayload {
       <fieldset className = "relative bottom-[-30px]">
         <figure>
 
-      <iframe width="905" height="500" src="https://www.youtube.com/embed/LPr3N4AMXNQ?si=Ys8HLJD1VjhrUGpL" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+      <iframe width="905" height="500" src="https://www.youtube.com/embed/zc-xHZaYlBk?si=ysP2-jCl8YQfM6Kv" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
       <figcaption className = "relative top-2">
 
       <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">
-      The Police- Every breath you take
+     Djo- End of beginning
     </h3>
     <div className = "relative top-[0px] flex p-1 items-center justify-between">
 
