@@ -326,9 +326,7 @@ interface JwtPayload {
                     <Link href="/profile" rel="noopener noreferrer">Profile</Link>
                   </DropdownMenuLabel>
 
-                  <DropdownMenuLabel>
-                    <Link href="/positions" rel="noopener noreferrer">Positions</Link>
-                  </DropdownMenuLabel>
+               
                   <DropdownMenuSeparator />
 
                   <DropdownMenuItem>
@@ -461,4 +459,5 @@ interface JwtPayload {
     </div>
   );
 }
+
 
