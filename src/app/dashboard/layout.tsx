@@ -329,9 +329,7 @@ export default function DashboardLayout({children}: {
               <Link href="profile" rel="noopener noreferrer">Profile</Link>
             </DropdownMenuLabel>
 
-            <DropdownMenuLabel>
-              <Link href="/positions" rel="noopener noreferrer">Positions</Link>
-            </DropdownMenuLabel>
+         
             <DropdownMenuSeparator />
 
             <DropdownMenuItem>
@@ -348,3 +346,4 @@ export default function DashboardLayout({children}: {
     </div>
   );
 }
+
